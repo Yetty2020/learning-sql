@@ -1,4 +1,0 @@
-SELECT
-  age
-FROM
-  users;
